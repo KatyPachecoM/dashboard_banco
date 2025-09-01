@@ -6,4 +6,6 @@ matplotlib
 seaborn
 pyyaml
 setuptools>=65.5.0
+plotly
+
 
